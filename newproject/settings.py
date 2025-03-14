@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-_%_#=wu99!cf&&h)w+5o$e7snob6=@58+ak=!i!k)kcdwkthm!
 DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1', 'localhost',
-                 'my-django-api-ihow.onrender.com']  # Add allowed domains/IPs
+                 'my-django-api-lalp.onrender.com']  # Add allowed domains/IPs
 
 
 # Application definition
